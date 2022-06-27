@@ -1,13 +1,16 @@
 #novedades{
-    background: rgba(0,0,0,0.8) url(../../../../public/images/fondo2.jpg) repeat scroll center center/cover;
     height: 100%;
     width: 100%;
-    background-blend-mode: darken;
     display: flex;
 }
 
+.title-news{
+    color: #000;
+    text-align: center;
+}
+
 .novedades{
-    color: #fff;
+    color: #000;
 }
 
 .novedades h4{
